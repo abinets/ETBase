@@ -9,7 +9,11 @@
 
 # WHO SMART GUIDELINES - ET Base IG
 
-http://build.fhir.org/ig/costateixeira/ETBase
+#http://build.fhir.org/ig/costateixeira/ETBase
+
+CI Build:
+   * http://build.fhir.org/ig/abinets/who-smart-ig-empty
+   * http://abinets.github.io/who-smart-ig-empty
 
 ## Changes and feedback
 
